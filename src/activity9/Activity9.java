@@ -22,7 +22,7 @@ public class Activity9 {
             if(num%2==0){
                 System.out.println("The number " + num + " is EVEN.");
             }else{
-                System.out.println("The number " + num + " is odd.");
+                System.out.println("The number " + num + " is ODD.");
             }
             if(num < 0){
                 System.out.println("The number " + num + " is NEGATIVE.");
