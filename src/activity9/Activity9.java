@@ -14,7 +14,7 @@ public class Activity9 {
         
         do{
             System.out.println("Enter a number: ");
-            num = sc.nextInt(0);
+            num = sc.nextInt();
             if(num == 0){
                 System.out.println("Goodbye!");
                 break;
